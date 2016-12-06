@@ -25,7 +25,7 @@ SECRET_KEY = 'xy95n=+ce*n^c1(h8&)z0mfx91=4&emruk#m0wl#q-#aigz!ad'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://danielflj.pythonanywhere.com']
+ALLOWED_HOSTS = ['danielflj.pythonanywhere.com']
 
 
 # Application definition
